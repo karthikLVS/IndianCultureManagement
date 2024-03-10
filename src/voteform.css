@@ -1,0 +1,54 @@
+/* Ramzan.css */
+
+.vote-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .vote-header {
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .vote-content {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .vote-content p {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .vote-content form {
+    margin-top: 20px;
+  }
+  
+  .vote-content label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .vote-content select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    border-radius: 4px;
+  }
+  
+  .vote-content button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .vote-content button:hover {
+    background-color: #45a049;
+  }
+  
